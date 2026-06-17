@@ -49,9 +49,30 @@
 //     console.log("prioridade invalida");
 // }
 
-//exercicio 6
-let contador = 1;
- for(i = 1; i <= 10; i++){
-    console.log(contador)
-    contador++
- }
+//Exercício 06 — Central de Atendimento
+
+let opcao = 3
+let setor
+
+switch (opcao){
+    case 1: setor = "Financeiro"; break;
+    case 2: setor = "Suporte técnico"; break;
+    case 3: setor = "Multimídia"; break;
+    default: setor = "Opção inválida"; break;
+}
+console.log(setor);
+
+//Exercício 07 — Monitoramento de Processos
+
+// for (let i = 0; i <= 10; i++){
+//     console.log("Executando tarefa " + i);
+// }
+
+ 
+
+//exercicio 8
+// let nomes = [ 'nicollylinda', 'kallebeengracado', 'nubialinda', 'lauralinda', 'yasminlinda']
+// for(i = 1; i < nomes.length; i++){
+
+//     console.log('integrantes: ' + nomes[i]);
+// }
