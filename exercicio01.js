@@ -51,22 +51,22 @@
 
 //Exercício 06 — Central de Atendimento
 
-let opcao = 3
-let setor
+// let opcao = 3
+// let setor
 
-switch (opcao){
-    case 1: setor = "Financeiro"; break;
-    case 2: setor = "Suporte técnico"; break;
-    case 3: setor = "Multimídia"; break;
-    default: setor = "Opção inválida"; break;
-}
-console.log(setor);
+// switch (opcao){
+//     case 1: setor = "Financeiro"; break;
+//     case 2: setor = "Suporte técnico"; break;
+//     case 3: setor = "Multimídia"; break;
+//     default: setor = "Opção inválida"; break;
+// }
+// console.log(setor);
 
 //Exercício 07 — Monitoramento de Processos
 
-// for (let i = 0; i <= 10; i++){
-//     console.log("Executando tarefa " + i);
-// }
+for (let i = 0; i <= 10; i++){
+    console.log("Executando tarefa " + i);
+}
 
  
 
