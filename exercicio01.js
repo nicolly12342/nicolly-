@@ -18,20 +18,20 @@
 // correspondente  a 10% desse valor
 //  e exiba o valor vendido, o valor da bonificação e o valor total.
 
-// let totalvendido = 5000;
-// let bonificacao = totalvendido * 0.10;
-// let valorotal = totalvendido + bonificacao;
+let totalvendido = 5000;
+let bonificacao = totalvendido * 0.10;
+let valorotal = totalvendido + bonificacao;
 
-// console.log(" vendas : " + totalvendido)
-// console.log("bonificacao : " + bonificacao)
-// console.log("total : " + valorotal)
+console.log(" vendas : " + totalvendido)
+console.log("bonificacao : " + bonificacao)
+console.log("total : " + valorotal)
 
 // exercicio 4
-let idade =  18;
- if(idade >= 18){
-    console.log("autorizado")
- } else if(idade< 18){
-    console.log("negado")
- } else {
-    console.log("negado")
- }
+// let idade =  18;
+//  if(idade >= 18){
+//     console.log("autorizado")
+//  } else if(idade< 18){
+//     console.log("negado")
+//  } else {
+//     console.log("negado")
+//  }
