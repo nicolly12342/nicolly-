@@ -37,14 +37,21 @@
 //  }
 
 //exercicio 5
-let prioridade = 2;
+// let prioridade = 2;
 
-if(prioridade == 1){
-    console.log("Prioridade baixa");
-}else if(prioridade == 2){
-    console.log("prioridade média");
-}else if(prioridade == 3){
-    console.log("prioridade alta");
-}else{
-    console.log("prioridade invalida");
-}
+// if(prioridade == 1){
+//     console.log("Prioridade baixa");
+// }else if(prioridade == 2){
+//     console.log("prioridade média");
+// }else if(prioridade == 3){
+//     console.log("prioridade alta");
+// }else{
+//     console.log("prioridade invalida");
+// }
+
+//exercicio 6
+let contador = 1;
+ for(i = 1; i <= 10; i++){
+    console.log(contador)
+    contador++
+ }
