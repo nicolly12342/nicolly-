@@ -18,13 +18,13 @@
 // correspondente  a 10% desse valor
 //  e exiba o valor vendido, o valor da bonificação e o valor total.
 
-let totalvendido = 5000;
-let bonificacao = totalvendido * 0.10;
-let valorotal = totalvendido + bonificacao;
+// let totalvendido = 5000;
+// let bonificacao = totalvendido * 0.10;
+// let valorotal = totalvendido + bonificacao;
 
-console.log(" vendas : " + totalvendido)
-console.log("bonificacao : " + bonificacao)
-console.log("total : " + valorotal)
+// console.log(" vendas : " + totalvendido)
+// console.log("bonificacao : " + bonificacao)
+// console.log("total : " + valorotal)
 
 // exercicio 4
 // let idade =  18;
@@ -35,3 +35,16 @@ console.log("total : " + valorotal)
 //  } else {
 //     console.log("negado")
 //  }
+
+//exercicio 5
+let prioridade = 2;
+
+if(prioridade == 1){
+    console.log("Prioridade baixa");
+}else if(prioridade == 2){
+    console.log("prioridade média");
+}else if(prioridade == 3){
+    console.log("prioridade alta");
+}else{
+    console.log("prioridade invalida");
+}
