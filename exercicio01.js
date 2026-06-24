@@ -64,9 +64,9 @@
 
 //Exercício 07 — Monitoramento de Processos
 
-for (let i = 0; i <= 10; i++){
-    console.log("Executando tarefa " + i);
-}
+// for (let i = 0; i <= 10; i++){
+//     console.log("Executando tarefa " + i);
+// }
 
  
 
